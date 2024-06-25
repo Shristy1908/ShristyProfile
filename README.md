@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shristy Kumari</h1>
 <h3 align="center">Software Engineer at Infodart Technology Ltd</h3>
 
-<img align="center" alt="coding gif" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-developer-working-on-web-development-4733536-3938556.mp4" />
+<img align="center" alt="coding gif" width="400" src="https://camo.githubusercontent.com/a6c4702e6a2b97ce210f81bd07bd5c089f9a030fc21bdf56a2826c07ddd21292/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shristy1908" alt="Shristy1908" /></a> </p>
